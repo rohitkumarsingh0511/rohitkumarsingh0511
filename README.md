@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     
-   ## Hi there 👋 this is Aakash Sharma.
+   ## Hi there 👋 this is Rohit Kumar Singh.
    
   </p>
 </div>
